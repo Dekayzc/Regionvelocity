@@ -1,0 +1,20 @@
+Package: Regionvelocity
+Type: Package
+Title: Region velocity in R: improving the RNA velocity approach using
+        long-read single cell sequencing
+Version: 1.3
+Date: 2021-12-18
+Author: Chen Zhang
+Maintainer: Chen Zhang <zhangchen3@u.nus.edu>
+Description: Region velocity estimation and visulization of steady-state model and dynamical model using EM algorithm in R.
+License: GPL-3
+Depends: Matrix, R (>= 2.10)
+Imports: Rcpp (>= 0.12.13), MASS, mgcv, parallel, pcaMethods, abind,
+        cluster, stats, grDevices, igraph, methods, hdf5r
+Suggests: Rtsne, BiocGenerics, Biostrings, GenomeInfoDb,
+        GenomicAlignments, GenomicRanges, IRanges, data.table,
+        Rsamtools, edgeR, h5
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.1.2
+NeedsCompilation: yes
+Packaged: 2022-05-02 11:18:47 UTC; ZCLH
