@@ -7,7 +7,7 @@ exons and introns counts as observed data to extrapolate future cell
 state. It includes steady-state model and dynamical model using EM
 algorithm in R.
 
-## Pre-installation
+## Denpendencies
 
 Region velocity can be installed on linux systems and windows with
 Rtools, requiring C++11, Open MP support, boost libaries, igraph library
