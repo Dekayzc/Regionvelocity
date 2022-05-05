@@ -12,7 +12,7 @@ algorithm in R.
 Region velocity can be installed on linux systems and windows with
 Rtools, requiring C++11, Open MP support, boost libaries, igraph library
 and hdf5c++ library. The library installation in linux can refer from
-velocyto-team/velocyto.R/dockers/debian9/Dockerfile. Windows
+https://github.com/velocyto-team/velocyto.R/dockers/debian9/Dockerfile. Windows
 installation should refer the installation of libboost in Rtools.
 
 ## Install
