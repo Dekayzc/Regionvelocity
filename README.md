@@ -25,7 +25,7 @@ installation should refer the installation of libboost in Rtools.
 Published data is available in this package. Suffix "\_eyes" means
 expression matrix (exons,introns,spliced counts, unspliced counts and
 RNA counts) from cynomolgus monkey limbal cells and “sper” means expression matrix
-from mouse spermary cells.
+from mouse spermary cells. The prefix "e", "i", "s" and "u" means exons, introns, spliced and unspliced respectively. 
 
     Data sets in package ‘Regionvelocity’:
 
